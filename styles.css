@@ -656,9 +656,11 @@ p {
     }
 
     .text-dark-h2 {
-        font-size: 25px;
+        font-size: 30px;
         color: #201749;
-        text-align: lef;
+        padding-top: 30px;
+        text-align: left;
+        font-weight: bold;
     }
 
     #why {
